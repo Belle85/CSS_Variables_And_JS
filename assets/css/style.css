@@ -1,0 +1,30 @@
+/*
+            misc styles, nothing to do with CSS variables
+          */
+          body {
+            text-align: center;
+            background: #3acada;
+            color: white;
+            font-family: 'PlaylistCaps', sans-serif;
+            font-weight: 100;
+            font-size: 50px;
+          }
+
+        @font-face{
+            font-family: 'PlaylistCaps';
+            src: url(../font/PlaylistCaps.otf);
+         }
+
+       
+
+        .controls {
+            margin-bottom: 50px;
+        }
+
+        input {
+            width: 100px;
+        }
+
+        img{
+            border-radius: 50%;
+        }
