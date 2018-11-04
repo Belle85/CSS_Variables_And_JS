@@ -3,7 +3,7 @@
 
 Play with CSS Variables and Javascript to update your styling thorough you page.
 
-![Homepage Image]
+![Homepage Image](https://github.com/Belle85/CSS_Variables_And_JS/blob/master/assets/image/Homepage.PNG)
 
 ### **#JavaScript30**
 30 Day Vanilla JS Coding Challenge : https://javascript30.com/
